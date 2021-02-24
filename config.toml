@@ -1,0 +1,4 @@
+baseURL = "https://decoroom-uniqgo8.vercel.app"
+languageCode = "en-us"
+title = "Living Room Décor Ideas Unique"
+theme = "hugo-theme-minos"
